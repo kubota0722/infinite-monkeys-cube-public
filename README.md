@@ -2,6 +2,8 @@
 
 「無限の猿定理（Infinite Monkey Theorem）」に着想を得た、30秒ごとにランダムな1手を打ち続けるルービックキューブの自律シミュレーション。
 
+**Demo**: https://kubota0722.github.io/infinite-monkeys-cube-public/
+
 ---
 
 ## 概要
@@ -34,8 +36,8 @@
 ### インストール
 
 ```bash
-git clone https://github.com/kubota0722/rubiks-cube.git
-cd rubiks-cube
+git clone https://github.com/kubota0722/infinite-monkeys-cube-public.git
+cd infinite-monkeys-cube-public
 npm install
 ```
 
